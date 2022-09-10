@@ -3,11 +3,6 @@
 In the Project you can select your height and your weight to calculate your BMI and know what you do in your body to be Perfect ,
 you can login in app with firebase.
 
-## Video Preview of Final UI
-
-https://user-images.githubusercontent.com/77101158/167268952-7ea5de16-750b-4808-aec8-8995191d3e05.mp4
-
-
 
 # Screens it contains:
 
