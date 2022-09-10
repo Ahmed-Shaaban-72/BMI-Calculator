@@ -1,16 +1,38 @@
-# bmi_calculator
+# BMI Calculator App - Flutter with FireBase
 
-A new Flutter project.
+In the Project you can select your height and your weight to calculate your BMI and know what you do in your body to be Perfect ,
+you can login in app with firebase.
 
-## Getting Started
+## Video Preview of Final UI
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/77101158/167268952-7ea5de16-750b-4808-aec8-8995191d3e05.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screens it contains:
+
+=> Splash Screen
+
+=> Login Screen
+
+=> Signup Screen
+
+=> Start Page
+
+=> Drawer Screen
+
+=> Select your Gender Page
+
+=> Select your Weight Page
+
+=> Select your Height Page
+
+=> Bmi Calculate Page
+
+Now it contains all the screen, thanks for your love and support 🙏
+
+# Photos
+
+![bmi 1](https://user-images.githubusercontent.com/77101158/174353142-718010b5-13cc-4fa1-a17e-fbf8a4d2949c.png)
+![bmi 2](https://user-images.githubusercontent.com/77101158/174353163-291e347a-f575-4692-9cdd-e675f29cb914.png)
+![bmi 3](https://user-images.githubusercontent.com/77101158/174353211-ff551f70-e049-488f-8162-4914d8d86269.png)
